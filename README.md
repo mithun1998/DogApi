@@ -2,13 +2,13 @@ DOGAPI
 
 PRESENTATION
 
-Projet démontrant l'utilisation d'une application android codé en Java. PokeAppli affiche la liste des Pokémons aussi appélé Pokédex et utilise l'API de Pokéapi.
+Projet démontrant l'utilisation d'une application android codé en Java. Dogapi affiche la liste des chien recensé dans le monde entier.
 
 CONSIGNES RESPECTEES 
 
 -Deux écrans : Écran avec trois fragments et un écran détaillé des items de la liste.
 
--Trois Fragments : Un fragment avec la liste de pokemon et un fragment avec des video you tube sur les pokemon.
+-Trois Fragments : Un fragment avec le home page, un fragment avec la liste des chiens et un fragment avec des videos you tube sur les chiens.
 
 -Appel API Rest.
 
